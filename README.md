@@ -1,1 +1,2 @@
 # epam-demo
+Magnetic
